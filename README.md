@@ -2,10 +2,7 @@
 
 LIVE SITE URL - (https://harshithrao07.github.io/TinDog/)
 
-SCREENSHOTS
-
+### SCREENSHOTS
 ![](screenshots/tindog_1.png)
-
-MOBILE SCREENSHOTS
-
+### MOBILE SCREENSHOTS
 ![](screenshots/tindog_2.png)
